@@ -1,0 +1,42 @@
+#tweetBoxId{
+  padding: 30px;
+}
+
+#tweet{
+  position: relative;
+  background-color: #F5F5F5;
+  padding: 15px;
+
+}
+
+.box-content {
+    display: inline-block;
+    width: 200px;
+    padding: 10px;
+}
+
+
+
+body{
+  background-image: url("bg-noise.png");
+
+}
+
+#top-bar{
+  padding: 15px;
+}
+
+#dateId{
+  position:absolute;
+  top:0;
+  right:0;
+  color:#333;
+}
+#versionId{
+  padding: 15px;
+  color:white;
+  position:fixed;;
+  bottom:0;
+  right:0;
+
+}
